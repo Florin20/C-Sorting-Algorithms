@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1488495744 source:c:\users\florin\desktop\c sorting algorithms\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1489753480 source:c:\users\florin\desktop\scoala\af\c sorting algorithms\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
